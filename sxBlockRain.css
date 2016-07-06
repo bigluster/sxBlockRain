@@ -1,0 +1,17 @@
+.scBlockRain_controls {
+    height: 5%;
+    width: 98%;
+    background: #000;
+    padding: 1%;
+}
+
+.scBlockRain_controls button {
+    background: #000;
+    border: solid 2px #fff;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    width: 48%;
+    margin: 0 1%;
+}
+

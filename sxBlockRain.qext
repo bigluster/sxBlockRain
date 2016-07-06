@@ -8,8 +8,8 @@
 	"homepage": "www.msiara.pl",
 	"keywords": "qlik-sense, visualization",
 	"license": "",
-	"repository": "",
+	"repository": "https://github.com/szaryms/sxBlockRain.git",
 	"dependencies": {
-		"qlik-sense": ">=1.0.x"
+		"qlik-sense": ">=2.2.4"
 	}
 }
